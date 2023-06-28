@@ -20,7 +20,7 @@ To run this project, you need to have the following dependencies installed:
 You can install these dependencies by running the following command:
 
 ```bash
-pip install -r Requirements.txt.txt
+pip install -r Requirements.txt
 ```
 
 ## File Structure
