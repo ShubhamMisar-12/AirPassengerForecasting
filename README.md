@@ -29,7 +29,9 @@ The file structure of this project repository is as follows:
 
 - `Data/`: This folder contains the dataset file used in the project.
 
-  - `AirPassengerDataForecasting-Sarima.ipynb`: Jupyter Notebook file for data preprocessing and SARIMA modeling.
+  - `AirPassenger.csv`: The Dataset containing the data with two columns one is the Date and the other is the corresponding value of the number of passengers.
+
+- `AirPassengerDataForecasting-Sarima.ipynb`: Jupyter Notebook file for data preprocessing and SARIMA modeling.
 
 - `LICENSE`: This file specifies the licensing terms for the project.
 
