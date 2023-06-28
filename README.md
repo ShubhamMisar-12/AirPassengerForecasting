@@ -35,7 +35,7 @@ The file structure of this project repository is as follows:
 
 - `README.md`: This file provides an overview of the project and instructions for usage.
 
-- `Requirements.txt.txt`: This file lists the dependencies required to run the project.
+- `Requirements.txt`: This file lists the dependencies required to run the project.
 
 Please note that this structure assumes there are no additional files or folders in the repository. Make sure to adjust the file structure information if you have any additional files or folders in your specific project.
 
